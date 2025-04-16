@@ -1,6 +1,4 @@
-Here’s your complete and refined `README.md` for the **Blink-AI** project in **Markdown**, combining all your features, architecture, and breakdown into a polished and cool format:
 
-```markdown
 # ⚡ Blink-AI
 
 **Blink-AI** is a powerful Android-based remote control system that lets you turn one phone into a wireless **mouse + keyboard** controller for another Android device. Whether you're navigating, typing, or clicking—Blink-AI brings seamless remote interaction to your fingertips.
